@@ -4,7 +4,7 @@ import org.lwjgl.opengl.DisplayMode;
 
 public class GameDisplay{
 	
-	public void start() {
+	public void Init() {
 		
 	}
 }

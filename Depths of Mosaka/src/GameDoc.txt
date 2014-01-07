@@ -1,0 +1,17 @@
+
+This is a record of current goals and progress for this project.
+please feel free to add what you have worked on and what you would we should do next.
+
+
+step 1 basic setup:
+	create the window and basic runtime environment for the game.
+	
+
+step 2 basic object creation
+	1. draw objects
+	2. basic physics
+
+
+
+general Ideas for game: any ideas and brainstorming goes here.
+	1.
