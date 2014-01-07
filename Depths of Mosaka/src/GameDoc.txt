@@ -1,4 +1,3 @@
-
 This is a record of current goals and progress for this project.
 please feel free to add what you have worked on and what you would we should do next.
 
@@ -14,4 +13,11 @@ step 2 basic object creation
 
 
 general Ideas for game: any ideas and brainstorming goes here.
-	1.
+	1. Permadeath
+	2. 32-bit Platforming
+	3. Procedurally generated content (design ~200 layouts)
+	4. Have only around 10 enemies who get generated with stats corresponding to the level 
+		of the dungeon you are at (out of 50)
+	5. Enemies and traps get harder as you go on; gear also scales.
+	6. Boss design that isn't crappy - must rely on skill only.
+	7. Get someone else to do the art, that's not our deal, LOL.
