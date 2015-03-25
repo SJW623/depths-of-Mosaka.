@@ -54,7 +54,7 @@ public class GameDisplay
 
     // ----------------------------------------------------------
     /**
-     * Place a description of your method here.
+     * Renders things.
      */
     public void render()
     {
@@ -66,7 +66,7 @@ public class GameDisplay
 
     // ----------------------------------------------------------
     /**
-     * Place a description of your method here.
+     * Main method.
      *
      * @param argv
      */
