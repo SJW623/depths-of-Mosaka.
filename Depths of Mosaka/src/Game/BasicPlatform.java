@@ -1,8 +1,12 @@
 package Game;
 
-/******************************
- * Author: Sam Winkelstein Date: 1/7/2014 This creates a basic platform of any
- * length up to 40 meters; ****************************
+// -------------------------------------------------------------------------
+/**
+ * Write a one-sentence summary of your class here. Follow it with additional
+ * details about its purpose, what abstraction it represents, and how to use it.
+ *
+ * @author David
+ * @version Mar 25, 2015
  */
 public class BasicPlatform
 {
@@ -15,6 +19,7 @@ public class BasicPlatform
     // ----------------------------------------------------------
     /**
      * Create a new BasicPlatform object.
+     *
      * @param startpoint
      * @param Platformlength
      */

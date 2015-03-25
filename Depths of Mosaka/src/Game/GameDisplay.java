@@ -1,18 +1,25 @@
 package Game;
 
-/******************************
- * Author: Sam Winkelstein Date: 1/7/2014 This class displays the window and
- * drives the game; ****************************
- */
-
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.DisplayMode;
 import static org.lwjgl.opengl.GL11.*;
 
+// -------------------------------------------------------------------------
+/**
+ * Write a one-sentence summary of your class here. Follow it with additional
+ * details about its purpose, what abstraction it represents, and how to use it.
+ *
+ * @author David
+ * @version Mar 25, 2015
+ */
 public class GameDisplay
 {
 
+    // ----------------------------------------------------------
+    /**
+     * Place a description of your method here.
+     */
     public void Init()
     {
         try

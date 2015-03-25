@@ -2,12 +2,11 @@ package Game;
 
 // -------------------------------------------------------------------------
 /**
- *  Write a one-sentence summary of your class here.
- *  Follow it with additional details about its purpose, what abstraction
- *  it represents, and how to use it.
+ * Write a one-sentence summary of your class here. Follow it with additional
+ * details about its purpose, what abstraction it represents, and how to use it.
  *
- *  @author David
- *  @version Mar 25, 2015
+ * @author David
+ * @version Mar 25, 2015
  */
 public class Vector2
 {
@@ -36,6 +35,7 @@ public class Vector2
     // ----------------------------------------------------------
     /**
      * Create a new Vector2 object.
+     *
      * @param X
      * @param Y
      */
@@ -49,6 +49,7 @@ public class Vector2
     // ----------------------------------------------------------
     /**
      * Create a new Vector2 object.
+     *
      * @param toCopy
      */
     public Vector2(Vector2 toCopy)
