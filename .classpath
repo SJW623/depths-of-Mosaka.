@@ -2,6 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="Depths of Mosaka/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/David/Documents/lwjgl-2.9.3/lwjgl-2.9.3/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/David/Documents/lwjgl-2.9.3/lwjgl-2.9.3/native/windows"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

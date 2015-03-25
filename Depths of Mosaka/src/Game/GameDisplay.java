@@ -52,6 +52,10 @@ public class GameDisplay
     }
 
 
+    // ----------------------------------------------------------
+    /**
+     * Place a description of your method here.
+     */
     public void render()
     {
         BasicBlock b1 = new BasicBlock();
@@ -60,6 +64,12 @@ public class GameDisplay
     }
 
 
+    // ----------------------------------------------------------
+    /**
+     * Place a description of your method here.
+     *
+     * @param argv
+     */
     public static void main(String[] argv)
     {
         GameDisplay myWindow = new GameDisplay();
